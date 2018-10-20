@@ -1,6 +1,10 @@
-# XMRig Docker Container
+# XMRig Proxy
 
-[XMRig Proxy](https://github.com/xmrig/xmrig-proxy) based on a Ubuntu Xenial Image.
+![Docker Build Status](https://img.shields.io/docker/build/boro/xmrig-proxy.svg) ![Docker Automated build](https://img.shields.io/docker/automated/boro/xmrig-proxy.svg) ![MicroBadger Size](https://img.shields.io/microbadger/image-size/boro/xmrig-proxy/latest.svg)
+
+![Docker Pulls](https://img.shields.io/docker/pulls/boro/xmrig-proxy.svg) ![Docker Stars](https://img.shields.io/docker/stars/boro/xmrig-proxy.svg)
+
+[XMRig Proxy](https://github.com/xmrig/xmrig-proxy) docker image based on Ubuntu Xenial.
 
 I try to keep this up to date with the official XMRig Proxy Releases [(Available Here)](https://github.com/xmrig/xmrig-proxy/releases)
 

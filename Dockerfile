@@ -1,6 +1,6 @@
 FROM ubuntu:xenial
 
-ADD xmrig-proxy-2.8.1-xenial-amd64.tar.gz /
-RUN mv /xmrig-proxy-2.8.1 /xmrig-proxy
+ADD xmrig-proxy-2.10.0-xenial-x64.tar.gz /
+RUN mv /xmrig-proxy-2.10.0 /xmrig-proxy
 
 ENTRYPOINT ["/xmrig-proxy/xmrig-proxy"]
